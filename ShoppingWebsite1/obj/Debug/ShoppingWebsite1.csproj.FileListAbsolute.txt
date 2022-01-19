@@ -12,3 +12,17 @@ C:\Users\Rohan\source\repos\ShoppingWebsite1\ShoppingWebsite1\obj\Debug\Shopping
 C:\Users\Rohan\source\repos\ShoppingWebsite1\ShoppingWebsite1\bin\Debug\SeleniumExtras.WaitHelpers.dll
 C:\Users\Rohan\source\repos\ShoppingWebsite1\ShoppingWebsite1\bin\Debug\nunit.framework.dll
 C:\Users\Rohan\source\repos\ShoppingWebsite1\ShoppingWebsite1\bin\Debug\nunit.framework.xml
+C:\Cloning project\PracticeGit\ShoppingWebsite1\bin\Debug\ShoppingWebsite1.exe.config
+C:\Cloning project\PracticeGit\ShoppingWebsite1\bin\Debug\ShoppingWebsite1.exe
+C:\Cloning project\PracticeGit\ShoppingWebsite1\bin\Debug\ShoppingWebsite1.pdb
+C:\Cloning project\PracticeGit\ShoppingWebsite1\bin\Debug\nunit.framework.dll
+C:\Cloning project\PracticeGit\ShoppingWebsite1\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Cloning project\PracticeGit\ShoppingWebsite1\bin\Debug\WebDriver.dll
+C:\Cloning project\PracticeGit\ShoppingWebsite1\bin\Debug\WebDriver.Support.dll
+C:\Cloning project\PracticeGit\ShoppingWebsite1\bin\Debug\nunit.framework.xml
+C:\Cloning project\PracticeGit\ShoppingWebsite1\obj\Debug\ShoppingWebsite1.csproj.AssemblyReference.cache
+C:\Cloning project\PracticeGit\ShoppingWebsite1\obj\Debug\ShoppingWebsite1.csproj.SuggestedBindingRedirects.cache
+C:\Cloning project\PracticeGit\ShoppingWebsite1\obj\Debug\ShoppingWebsite1.csproj.CoreCompileInputs.cache
+C:\Cloning project\PracticeGit\ShoppingWebsite1\obj\Debug\ShoppingWebsite1.csproj.CopyComplete
+C:\Cloning project\PracticeGit\ShoppingWebsite1\obj\Debug\ShoppingWebsite1.exe
+C:\Cloning project\PracticeGit\ShoppingWebsite1\obj\Debug\ShoppingWebsite1.pdb

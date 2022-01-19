@@ -82,7 +82,10 @@ namespace ShoppingWebsite1
             {
             Console.WriteLine("Both strings doesn not match");
             }
+
+            Console.WriteLine("added changes to clone file");
             Console.ReadLine();
+
         }
 
     }
