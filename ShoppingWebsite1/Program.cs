@@ -84,6 +84,8 @@ namespace ShoppingWebsite1
             }
 
             Console.WriteLine("added changes to clone file");
+            Console.WriteLine("added changes to clone file1");
+            Console.WriteLine("added changes to clone file2");
             Console.ReadLine();
 
         }
